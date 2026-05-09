@@ -1,0 +1,6 @@
+expenv
+.env
+expenv/
+.vscode/
+__pycache__/
+*.py[cod]
